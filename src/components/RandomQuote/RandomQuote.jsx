@@ -9,7 +9,7 @@ import likedeIcon from '../assets/li1.png';
 import trendingIcon from '../assets/trending_icon.png';
 import axios from 'axios';
 
-const API_BASE_URL = 'http://api.quotable.io';
+const API_BASE_URL = 'https://api.quotable.io';
 const RANDOM_QUOTES_ENDPOINT = '/quotes/random';
 const RANDOM_QUOTES_LIMIT = 4;
 
